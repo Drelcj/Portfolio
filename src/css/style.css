@@ -1,0 +1,72 @@
+body {
+  background: #000000;
+  color:#ffffff;
+ }
+
+.navbar {
+  background: #000000;
+  color: #ffffff;
+  }
+
+#home-section {
+  min-height: 700px;
+ }
+
+  #home-section .home-inner {
+    padding-top: 150px;
+   }
+   .what-i-do{
+    min-height: 700px;
+    top: 20002px;
+    padding-top: 500px;
+   }
+   .row-icons{
+     padding-top: 100px;
+   }
+#personality {
+      background: #000000;
+      color: #ffffff;
+    } 
+    
+    #personality .container {
+      position: absolute;
+width: auto;
+height: 203px;
+left: 507px;
+top: 1422px;
+
+    }
+.cont{
+  margin-left: 160px;
+  font-size: 15px;
+  font-weight: 500;
+  line-height: 2em;
+}
+.row{
+  margin: auto;
+  width: auto;
+}
+
+#show h3 {
+  line-height: 140px;
+}
+#show p{
+  font-size:;
+  padding-top: 40px;
+  text-align: left;
+}
+#show h2 {
+  padding-top: 20px;
+  font-size: 40px;
+  text-align: left;
+}
+#andrea{
+  background-image: url('https://res.cloudinary.com/drelcj/image/upload/v1593861378/andreea2_s30kb5.png') no-repeat;
+}
+
+#create-section .fa {
+  color: #008ed6;
+  background: #fff;
+  padding: 4px;
+  border-radius: 5px;
+  font-size: 30px; }
